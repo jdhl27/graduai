@@ -52,9 +52,7 @@ function Index() {
         },
         {
           headers: {
-            'Content-Type': 'application/json',
-            Authorization:
-              'Bearer sk-proj-yJdfxuBXmI96Amy7hC6MT3BlbkFJYaTaLaOicCJEOXhys7Sa',
+            'Content-Type': 'application/json'
           },
         },
       );
